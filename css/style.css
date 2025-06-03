@@ -68,3 +68,37 @@ th {
 tr {
   background-color: #b1e6f2;
 }
+
+/*Footer*/
+.pc {
+  color: #fff;
+  width: 200px;
+  height: 160px;
+  background-image: url(../img/monitor.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.correlated-article-tittle {
+  margin: 8px;
+  font-size: 1.1rem;
+}
+
+.grafic {
+  color: #fff;
+  width: 200px;
+  height: 160px;
+  background-image: url(../img/graph.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.correlated-article-tittle {
+  margin: 8px;
+  font-size: 1.1rem;
+}
