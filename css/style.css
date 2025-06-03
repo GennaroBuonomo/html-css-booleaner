@@ -10,7 +10,7 @@ body {
   background-size: 400px;
 }
 
-img {
+#id {
   height: 50px;
   width: auto;
   margin-top: 38px;
@@ -28,5 +28,8 @@ address {
 }
 
 a {
-  text-decoration: none
+  text-decoration: none;
+  color: #1abced;
 }
+
+figure
