@@ -1,4 +1,10 @@
+body {
+  margin: 0%;
+}
+
 #main-container {
   height: 100px;
   background-color: #4ea1ff;
+  background-image: url(../img/pattern.png);
+  background-size: 315px;
 }
