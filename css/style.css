@@ -8,3 +8,9 @@ body {
   background-image: url(../img/pattern.png);
   background-size: 315px;
 }
+
+img {
+  height: 50px;
+  width: auto;
+  margin-top: 40px;
+}
