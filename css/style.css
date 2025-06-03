@@ -10,7 +10,7 @@ body {
   background-size: 400px;
 }
 
-#id {
+#logo {
   height: 50px;
   width: auto;
   margin-top: 38px;
@@ -32,4 +32,10 @@ a {
   color: #1abced;
 }
 
-figure
+.class-small {
+  font-size: small;
+}
+
+figure {
+  margin: 10px;
+}
