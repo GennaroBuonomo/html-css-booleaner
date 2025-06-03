@@ -39,3 +39,32 @@ a {
 figure {
   margin: 10px;
 }
+
+ul {
+  padding-inline-start: 3px;
+  list-style-position: inside;
+}
+
+/*Tabella*/
+table {
+  border-collapse: collapse;
+}
+
+.wt-50 {
+  width: 50%;
+}
+
+.bc-white {
+  background-color: #fff;
+}
+
+
+th {
+  text-align: left;
+  background-color: #1faae5;
+  color: #fff;
+}
+
+tr {
+  background-color: #b1e6f2;
+}
