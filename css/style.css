@@ -2,15 +2,31 @@ body {
   margin: 0%;
 }
 
+/*Intestazione*/
 #main-container {
   height: 100px;
   background-color: #4ea1ff;
   background-image: url(../img/pattern.png);
-  background-size: 315px;
+  background-size: 400px;
 }
 
 img {
   height: 50px;
   width: auto;
-  margin-top: 40px;
+  margin-top: 38px;
+}
+
+/*Main*/
+h1 {
+  font-size: 38px;
+  margin-bottom: 0%;
+}
+
+address {
+  font-style: normal;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none
 }
